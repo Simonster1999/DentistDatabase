@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# DentistDatabase
-=======
+
 # Dentistimo
 
 ## Installation Guide
@@ -14,4 +12,4 @@ Note. In order to run this component, node.js must be installed.
 
 ## Purpose
 This component handles accessing the data of the dentistries as well as communicating it to the UserBookingUI component. 
->>>>>>> 9a551bac0a2aa242270033168fed071cc1bb8fc6
+
